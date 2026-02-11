@@ -162,8 +162,8 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: Sodiq Oluwadamilare Hassan
+- GitHub: (https://github.com/Shassan-04/Housing-Price-Service)
 
 ## 🙏 Acknowledgments
 
